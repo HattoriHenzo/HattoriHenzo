@@ -9,7 +9,7 @@ Nice to meet you! 😊
 
 I am Emmanuel (AKA Hattori Henzo on GitHub) - Software Engineer, Open Source Contributor and passionate about technology :star2: :computer:
 
-I like exploring and to solving problems.
+I like exploring and solving problems.
 
 Currently, I'm Lead Developer in insurance domain, designing and implementing API(s) following a Cloud Native and Microservices distributed architecture on the cloud (Azure/AWS mainly on Kubernetes AKS/EKS).
 
