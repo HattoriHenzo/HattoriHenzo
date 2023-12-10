@@ -45,7 +45,7 @@ Currently, I'm a Lead Back End Developer in the insurance domain, designing and 
 
 ## Preview notable experience 🕙
 
-- In my previous life (as Software Engineer in a Telecommunication Company), I used to develop admistration tools for Telecom Platforms such as Ericsson and Huawei
+- In my previous life (as Software Engineer in a Telecommunication Company), I used to develop admistration and monitoring tools for Telecom Platforms such as Ericsson and Huawei
 - I also used to work as a *Data Integrator* (I guess what is called now a *Data Engineer*), by designing *Data Pipelines* for collecting, transforming and distributing outputs data with tools and ETL such as: IME(with Python and C) and Talend Open Studio/Microsoft SSIS
 - Knowing the basics of Data Engineering, I am actively working on updating my knowledge on tools such as [Hadoop](https://hadoop.apache.org/) and [Spark](https://spark.apache.org/)
 
