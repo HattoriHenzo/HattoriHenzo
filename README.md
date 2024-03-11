@@ -1,4 +1,4 @@
-### Hello and Welcome :blush:
+il### Hello and Welcome :blush:
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuelsombugma/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esombugma@gmail.com)
@@ -19,7 +19,6 @@ Currently, I'm a Lead BackEnd Developer in the insurance domain, designing and i
 - API Design, API Management and API Security
 - System Design, Distributed Systems, Cloud Engineering
 - Framework, library and SDK Design
-- Security
 - Teaching (my french youtube channel [here](www.youtube.com/@javathinked))
 
 ## Software Engineering 🎉
