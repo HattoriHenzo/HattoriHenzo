@@ -42,6 +42,11 @@ Currently, I'm a Lead BackEnd Developer in the insurance domain, designing and i
 - Kafka, RabbitMQ
 - MySQL, PostgreSQL, MS SQL Server, Redis
 
+## Cloud Platform
+- Azure
+- AWS
+- Heroku
+
 ## Preview notable experience 🕙
 
 - In my previous life (as Software Engineer in a Telecommunication Company), I used to develop admistration and monitoring tools for Telecom Platforms such as Ericsson and Huawei
