@@ -42,7 +42,7 @@ Currently, I'm a Lead BackEnd Developer in the insurance domain, designing and i
 - Kafka, RabbitMQ
 - MySQL, PostgreSQL, MS SQL Server, Redis
 
-## Cloud Platform
+## Cloud Platform ☁️
 - Azure
 - AWS
 - Heroku
