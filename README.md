@@ -19,6 +19,7 @@ Currently, I'm a Senior BackEnd Developer in the insurance domain, designing and
 - API Design, API Management and API Security
 - System Design, Distributed Systems, Cloud Engineering
 - Framework, library and SDK Design
+- Open Source Contributor (with some contributions [here](https://github.com/apache/eventmesh/issues?page=1&q=author:HattoriHenzo))
 - Teaching (my french youtube channel [here](www.youtube.com/@javathinked))
 
 ## Software Engineering 🎉
