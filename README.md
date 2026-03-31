@@ -7,23 +7,26 @@
 
 Nice to meet you! 😎
 
-I am Emmanuel (AKA Hattori Henzo on GitHub) - Software Engineer, Open Source contributor and passionate about technology :star2: :computer:
+I am Emmanuel (AKA Hattori Henzo on GitHub) - Software Engineer, Open Source contributor and passionate about technology, Cloud computing, AI/ML Enthousiast :star2: :computer:
 
 I like exploring and solving problems, and very curious about any field in Software Engineering and Computer Science.
 
-Currently, I'm a Senior BackEnd Developer in the insurance domain, designing and implementing API(s) following a Cloud Native and Microservice distributed architecture on the Cloud (Azure/AWS mainly on Kubernetes AKS/EKS).
+Currently, I'm a Senior Developer Experience Engineer in the banking domain, designing/implementing libraries and SDK mainly in the Java/Spring Boot stack.
 
 ## Main Areas of Interest 💡
 
-- Software Engineering and Architecture 
+- Software Engineering and Architecture
+- AI/ML Engineering
 - API Design, API Management and API Security
 - System Design, Distributed Systems, Cloud Engineering
-- Framework, library and SDK Design
+- Developer Experience: Framework, SDK and Library Design
 - Open Source Contributor (with some contributions [here](https://github.com/apache/eventmesh/issues?page=1&q=author:HattoriHenzo))
 - Teaching (my french youtube channel [here](www.youtube.com/@javathinked))
 
 ## Software Engineering 🎉
 
+- Developer Experience
+- AI/ML Engineering
 - Cloud Native
 - Microservices
 - Distributed Systems
@@ -56,5 +59,5 @@ Currently, I'm a Senior BackEnd Developer in the insurance domain, designing and
 
 ## Other areas of interest ⭐
 
-- :surfer: Since almost 4 years, I am working on Microservices and Distributed Systems, with a particular interest on Brokers. In my spare time I contribute to Open Source project such as [Apache EventMesh](https://github.com/apache/eventmesh). One of my big achievement is to be in the Project Management Committees(PMC) for the EventMesh project
+- :surfer: I am working on Microservices and Distributed Systems, with a particular interest for Brokers and every related technologies associated. In my spare time, I contribute to Open Source project such as [Apache EventMesh](https://github.com/apache/eventmesh). I had the chance and the opportunity to accepted as a Project Management Committees(PMC) for the EventMesh project.
 - :slot_machine: I am also new to machine learning and I am trying to stay up to date
