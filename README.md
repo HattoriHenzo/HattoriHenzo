@@ -20,21 +20,17 @@ Currently, I'm a Senior Developer Experience Engineer in the banking domain, des
 - API Design, API Management and API Security
 - System Design, Distributed Systems, Cloud Engineering
 - Developer Experience: Framework, SDK and Library Design
-- Open Source Contributor (with some contributions [here](https://github.com/apache/eventmesh/issues?page=1&q=author:HattoriHenzo))
+- Open Source Contributor
 - Teaching (my french youtube channel [here](www.youtube.com/@javathinked))
 
-## Software Engineering 🎉
+## Open Source Contributions
 
-- Developer Experience
-- AI/ML Engineering
-- Cloud Native
-- Microservices
-- Distributed Systems
-- Best Practices
+- Apache EventMesh (Committer): https://github.com/apache/eventmesh/issues?page=1&q=author:HattoriHenzo
+- DataFaker: https://github.com/datafaker-net/datafaker/issues?page=1&q=author:HattoriHenzo
 
 ## Languages 🛠️
 
-- Java :coffee:
+- Java (Spring Boot) :coffee:
 - C# :hocho:
 - Python :snake:
 - JavaScript :hammer:
@@ -42,8 +38,8 @@ Currently, I'm a Senior Developer Experience Engineer in the banking domain, des
 
 ## Tools 🔧
 
-- Docker, Kubernetes, Helm, JMeter
-- Kafka, RabbitMQ
+- Docker, Kubernetes, Helm
+- Kafka, RabbitMQ, Pulsar, EventMesh
 - MySQL, PostgreSQL, MS SQL Server, Redis
 
 ## Cloud Platform ☁️
