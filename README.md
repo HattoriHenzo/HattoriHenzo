@@ -15,18 +15,18 @@ Nice to meet you! 😎
 
 - :raising_hand: I am Emmanuel (AKA Hattori Henzo on GitHub) - Software Engineer, Open Source contributor and passionate about technology, Cloud computing, AI/ML and Cybersecurity Enthousiast :star2: :computer:
 - :zap: I like exploring and solving problems, and very curious about any field in Software Engineering and Computer Science.
-- :sun_with_face: Currently, I'm a Senior Developer Experience Engineer in the banking domain, designing/implementing libraries, SDK mainly and advocating for best pratices in the Java/Spring Boot stack.
+- :sun_with_face: Currently, I'm a Senior Developer Experience Engineer in the banking domain :bank:, designing/implementing libraries, SDK mainly and advocating for best pratices in the Java/Spring Boot stack.
 
 ## Main Areas of Interest 💡
 
-- Software Engineering and Architecture
-- AI/ML Engineering
-- API Design, API Management and API Security
-- System Design, Distributed Systems, Cloud Engineering
-- Developer Experience: Framework, SDK and Library Design
-- Open Source Contributor
-- Cybersecurity
-- Teaching (my french youtube channel [here](www.youtube.com/@javathinked))
+- :airplane: Software Engineering and Architecture
+- :round_pushpin: AI/ML Engineering
+- :mailbox_with_no_mail: API Design, API Management and API Security
+- :triangular_ruler: System Design, Distributed Systems, Cloud Engineering
+- :blue_book: Developer Experience: Framework, SDK and Library Design
+- :star: Open Source Contributor
+- :police_car: Cybersecurity
+- :books: Teaching (my french youtube channel [here](www.youtube.com/@javathinked))
 
 ## Open Source Contributions
 
@@ -35,17 +35,17 @@ Nice to meet you! 😎
 
 ## Languages 🛠️
 
-- Java (Spring Boot) :coffee:
-- C# :hocho:
-- Python :snake:
-- JavaScript :hammer:
-- SQL :fire:
+- :coffee: Java (Spring Boot)
+- :hocho: C#
+- :snake: Python
+- :hammer: JavaScript
+- :fire: SQL
 
 ## Tools 🔧
 
-- Docker, Kubernetes, Helm
-- Kafka, RabbitMQ, Pulsar, EventMesh
-- MySQL, PostgreSQL, MS SQL Server, Redis
+- :pushpin: Docker, Kubernetes, Helm
+- :pushpin: Kafka, RabbitMQ, Pulsar, EventMesh
+- :pushpin: MySQL, PostgreSQL, MS SQL Server, Redis
 
 ## Cloud Platform ☁️
 - :bulb: Azure
@@ -54,9 +54,8 @@ Nice to meet you! 😎
 
 ## Preview notable experience 🕙
 
-- In my previous life (as Software Engineer in a Telecommunication Company), I used to develop administration and monitoring tools for Telecom Platforms such as Ericsson and Huawei
-- I also used to work as a *Data Integrator* (I guess what is called now a *Data Engineer*), by designing *Data Pipelines* for collecting, transforming and distributing data with tools and ETL such as: IME(with Python and C) and Talend Open Studio/Microsoft SSIS
-- Knowing the basics of Data Engineering, I am actively working on updating my knowledge on tools such as [Hadoop](https://hadoop.apache.org/) and [Spark](https://spark.apache.org/)
+- :hearts: In my previous life (as Software Engineer in a Telecommunication Company), I used to develop administration and monitoring tools for Telecom Platforms such as Ericsson and Huawei
+- :pencil: I also used to work as a *Data Integrator* (I guess what is called now a *Data Engineer*), by designing *Data Pipelines* for collecting, transforming and distributing data with tools and ETL such as: IME(with Python and C) and Talend Open Studio/Microsoft SSIS
 
 ## Other areas of interest ⭐
 
