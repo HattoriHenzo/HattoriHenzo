@@ -5,13 +5,21 @@
 
 ## About Me
 
+---
+
+</p>
+    <a href="https://github.com/bethanyjep">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HattoriHenzo&theme=2077" alt="HattoriHenzo"/>
+    </a>
+</p>
+
+---
+
 Nice to meet you! 😎
 
-I am Emmanuel (AKA Hattori Henzo on GitHub) - Software Engineer, Open Source contributor and passionate about technology, Cloud computing, AI/ML Enthousiast :star2: :computer:
-
-I like exploring and solving problems, and very curious about any field in Software Engineering and Computer Science.
-
-Currently, I'm a Senior Developer Experience Engineer in the banking domain, designing/implementing libraries and SDK mainly in the Java/Spring Boot stack.
+- :raising_hand: I am Emmanuel (AKA Hattori Henzo on GitHub) - Software Engineer, Open Source contributor and passionate about technology, Cloud computing, AI/ML and Cybersecurity Enthousiast :star2: :computer:
+- :zap: I like exploring and solving problems, and very curious about any field in Software Engineering and Computer Science.
+- :sun_with_face: Currently, I'm a Senior Developer Experience Engineer in the banking domain, designing/implementing libraries, SDK mainly and advocating for best pratices in the Java/Spring Boot stack.
 
 ## Main Areas of Interest 💡
 
@@ -21,6 +29,7 @@ Currently, I'm a Senior Developer Experience Engineer in the banking domain, des
 - System Design, Distributed Systems, Cloud Engineering
 - Developer Experience: Framework, SDK and Library Design
 - Open Source Contributor
+- Cybersecurity
 - Teaching (my french youtube channel [here](www.youtube.com/@javathinked))
 
 ## Open Source Contributions
@@ -34,7 +43,7 @@ Currently, I'm a Senior Developer Experience Engineer in the banking domain, des
 - C# :hocho:
 - Python :snake:
 - JavaScript :hammer:
-- SQL
+- SQL :fire:
 
 ## Tools 🔧
 
@@ -43,13 +52,13 @@ Currently, I'm a Senior Developer Experience Engineer in the banking domain, des
 - MySQL, PostgreSQL, MS SQL Server, Redis
 
 ## Cloud Platform ☁️
-- Azure
-- AWS
-- Heroku
+- :bulb: Azure
+- :bulb: AWS
+- :bulb: Heroku
 
 ## Preview notable experience 🕙
 
-- In my previous life (as Software Engineer in a Telecommunication Company), I used to develop admistration and monitoring tools for Telecom Platforms such as Ericsson and Huawei
+- In my previous life (as Software Engineer in a Telecommunication Company), I used to develop administration and monitoring tools for Telecom Platforms such as Ericsson and Huawei
 - I also used to work as a *Data Integrator* (I guess what is called now a *Data Engineer*), by designing *Data Pipelines* for collecting, transforming and distributing data with tools and ETL such as: IME(with Python and C) and Talend Open Studio/Microsoft SSIS
 - Knowing the basics of Data Engineering, I am actively working on updating my knowledge on tools such as [Hadoop](https://hadoop.apache.org/) and [Spark](https://spark.apache.org/)
 
