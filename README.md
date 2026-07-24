@@ -5,7 +5,11 @@
 
 ## About Me
 
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HattoriHenzo&theme=2077
+</p>
+    <a href="https://github.com/HattoriHenzo">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HattoriHenzo&theme=radical" alt="HattoriHenzo"/>
+    </a>
+</p>
 
 Nice to meet you! 😎
 
