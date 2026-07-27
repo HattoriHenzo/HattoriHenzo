@@ -1,3 +1,7 @@
+
+<img width="1983" height="793" alt="avatar_matrix_banner" src="https://github.com/user-attachments/assets/c94a4ec1-393a-44bc-b485-b6c0a0e16cf0" />
+
+
 ### Hello and Welcome :blush:
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuelsombugma/)
