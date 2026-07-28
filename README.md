@@ -31,7 +31,7 @@ Nice to meet you! 😎
 - :blue_book: Developer Experience: Framework, SDK and Library Design
 - :star: Open Source Contributor
 - :police_car: Cybersecurity
-- :books: Teaching (my french youtube channel [here](www.youtube.com/@javathinked))
+- :books: Teaching on my french Youtube Channel [here](www.youtube.com/@javathinked)
 
 ## Open Source Contributions
 
