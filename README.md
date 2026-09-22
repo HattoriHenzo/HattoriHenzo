@@ -37,6 +37,7 @@ Nice to meet you! 😎
 
 - Apache EventMesh (Committer): https://github.com/apache/eventmesh/issues?page=1&q=author:HattoriHenzo
 - DataFaker: https://github.com/datafaker-net/datafaker/issues?page=1&q=author:HattoriHenzo
+- Java Design Pattern: https://github.com/iluwatar/java-design-patterns/issues?page=1&q=author:HattoriHenzo
 
 ## Languages 🛠️
 
