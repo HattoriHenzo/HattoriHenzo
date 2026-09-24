@@ -19,7 +19,7 @@ Nice to meet you! 😎
 
 - :raising_hand: I am Emmanuel (AKA Hattori Henzo on GitHub) - Software Engineer, Open Source contributor and passionate about technology, Cloud computing, AI/ML and Cybersecurity Enthousiast :star2: :computer:
 - :zap: I like exploring and solving problems, and very curious about any field in Software Engineering and Computer Science
-- :sun_with_face: Currently, I'm a Senior Developer Experience Engineer in the banking domain :bank:, designing/implementing libraries, SDK mainly and advocating for best pratices in the Java/Spring Boot stack
+- :sun_with_face: Currently, I'm a Senior Developer Experience Engineer in the banking domain :bank:, designing/implementing libraries, SDK and advocating for best practices mainly on the Java/Spring Boot stack
 - :video_game: I am also a gamer in my free time, playing exclusively on PS5 (Tekken 8, Astro Bot, Fortnite etc...)
 
 ## Main Areas of Interest 💡
@@ -51,11 +51,12 @@ Nice to meet you! 😎
 
 - :pushpin: Docker, Kubernetes, Helm
 - :pushpin: Kafka, RabbitMQ, Pulsar, EventMesh
-- :pushpin: MySQL, PostgreSQL, MS SQL Server, Redis
+- :pushpin: MySQL/MariaDB, PostgreSQL, MS SQL Server, Oracle, SQLite, Redis
 
 ## Cloud Platform ☁️
 - :bulb: Azure
 - :bulb: AWS
+- :bulb: GCP
 - :bulb: Heroku
 
 ## Preview notable experience 🕙
