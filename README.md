@@ -65,5 +65,5 @@ Nice to meet you! 😎
 
 ## Other areas of interest ⭐
 
-- :surfer: I am working on Microservices and Distributed Systems, with a particular interest for Brokers and every related technologies associated. In my spare time, I contribute to Open Source project such as [Apache EventMesh](https://github.com/apache/eventmesh). I had the chance and the opportunity to accepted as a Project Management Committees(PMC) for the EventMesh project
+- :surfer: I am working on Microservices and Distributed Systems, with a particular interest for Brokers and every related technologies associated. In my spare time, I contribute to Open Source project such as [Apache EventMesh](https://github.com/apache/eventmesh). I had the chance and the opportunity to be accepted as a Project Management Committees(PMC) for the EventMesh project
 - :slot_machine: I am also new to machine learning and I am trying to stay up to date
